@@ -5,7 +5,8 @@ import iconPhone from "./icon-phone.svg";
 import illustartionFlowingConversation from "./illustration-flowing-conversation.svg";
 import illustartionGrowTogether from "./illustration-grow-together.svg";
 import illustartionYourUsers from "./illustration-your-users.svg";
-import screenMockups from "./illustration-screen-mockups.svg";
+import logo from "./logo.svg";
+import screenMockups from "./screen-mockups.svg";
 
 // Desktop Images
 import bgFooterTopDesktop from "./bg-footer-top-desktop.svg";
@@ -29,6 +30,7 @@ export {
     illustartionFlowingConversation,
     illustartionGrowTogether,
     illustartionYourUsers,
+    logo,
     screenMockups,
     bgFooterTopDesktop,
     bgSectionBottomDesktop1,
