@@ -5,7 +5,7 @@ function SocialProof() {
 
     return(
 
-        <section className="w-full max-w-[90%] mx-auto flex flex-col lg:flex-row items-center justify-center">
+        <section className="w-full max-w-[80%] md:max-w-[85%] mx-auto flex flex-col md:flex-row items-center justify-center gap-[80px] md:gap-0 mb-[150px]">
 
             <div className="w-full flex flex-col items-center justify-start">
 

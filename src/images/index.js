@@ -7,6 +7,9 @@ import illustartionGrowTogether from "./illustration-grow-together.svg";
 import illustartionYourUsers from "./illustration-your-users.svg";
 import logo from "./logo.svg";
 import screenMockups from "./screen-mockups.svg";
+import facebook from "./facebook-square-logo-24.png";
+import instagram from "./instagram-logo-24.png";
+import twitter from "./twitter-logo-24.png";
 
 // Desktop Images
 import bgFooterTopDesktop from "./bg-footer-top-desktop.svg";
@@ -41,5 +44,8 @@ export {
     bgSectionBottomMobile1,
     bgSectionBottomMobile2,
     bgSectionTopMobile1,
-    bgSectionTopMobile2
+    bgSectionTopMobile2,
+    facebook,
+    instagram,
+    twitter
 }
